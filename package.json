@@ -27,5 +27,8 @@
   "dependencies": {
     "aws-sdk": "^2.1300.0",
     "lodash": "^4.17.21"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
