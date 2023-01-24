@@ -1,5 +1,5 @@
 {
-  "name": "@mesabg/strapi-provider-upload-aws-s3-cdn",
+  "name": "@mesabg-wikot/strapi-provider-upload-aws-s3-cdn",
   "version": "1.0.0",
   "description": "Strapi provider with support for S3 management and CDN",
   "directories": {
