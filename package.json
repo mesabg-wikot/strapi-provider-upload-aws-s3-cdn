@@ -1,0 +1,31 @@
+{
+  "name": "strapi-provider-upload-aws-s3-cdn",
+  "version": "1.0.0",
+  "description": "Strapi provider with support for S3 management and CDN",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesabg-wikot/strapi-provider-upload-aws-s3-cdn.git"
+  },
+  "keywords": [
+    "strapi",
+    "cdn",
+    "s3"
+  ],
+  "author": "Moisés Berenguer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesabg-wikot/strapi-provider-upload-aws-s3-cdn/issues"
+  },
+  "homepage": "https://github.com/mesabg-wikot/strapi-provider-upload-aws-s3-cdn#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1300.0",
+    "lodash": "^4.17.21"
+  }
+}
